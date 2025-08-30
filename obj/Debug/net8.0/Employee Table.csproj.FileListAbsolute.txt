@@ -1,0 +1,10 @@
+C:\Employee Table\obj\Debug\net8.0\Employee Table.csproj.AssemblyReference.cache
+C:\Employee Table\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Employee Table\obj\Debug\net8.0\Employee Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Employee Table\obj\Debug\net8.0\Employee Table.AssemblyInfoInputs.cache
+C:\Employee Table\obj\Debug\net8.0\Employee Table.AssemblyInfo.cs
+C:\Employee Table\obj\Debug\net8.0\Employee Table.csproj.CoreCompileInputs.cache
+C:\Employee Table\obj\Debug\net8.0\Employee Table.MvcApplicationPartsAssemblyInfo.cache
+C:\Employee Table\obj\Debug\net8.0\Employee Table.RazorAssemblyInfo.cache
+C:\Employee Table\obj\Debug\net8.0\Employee Table.RazorAssemblyInfo.cs
+C:\Employee Table\obj\Debug\net8.0\Employee Table.sourcelink.json
